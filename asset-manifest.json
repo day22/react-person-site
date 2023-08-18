@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/day22/react-person-site/static/css/main.073c9b0a.css",
+    "main.js": "/day22/react-person-site/static/js/main.6cf0641e.js",
+    "static/js/787.5809834d.chunk.js": "/day22/react-person-site/static/js/787.5809834d.chunk.js",
+    "index.html": "/day22/react-person-site/index.html",
+    "main.073c9b0a.css.map": "/day22/react-person-site/static/css/main.073c9b0a.css.map",
+    "main.6cf0641e.js.map": "/day22/react-person-site/static/js/main.6cf0641e.js.map",
+    "787.5809834d.chunk.js.map": "/day22/react-person-site/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6cf0641e.js"
+  ]
+}
